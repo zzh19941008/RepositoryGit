@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is  zhangsan
+=======
+{\rtf1}
+>>>>>>> 52ea7ba69e044e839ac47ccec7eacd2ab5a59ae5
